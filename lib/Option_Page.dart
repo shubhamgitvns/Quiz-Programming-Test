@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
-import 'Down;oder.dart';
-import 'Quiz.dart';
+import 'downloader.dart';
+import 'quiz.dart';
 
 class QuizOne extends StatelessWidget {
   @override

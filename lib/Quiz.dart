@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'package:flutter/material.dart';
-import 'Class.dart';
-import 'Down;oder.dart';
+import 'myclasses.dart';
+import 'downloader.dart';
 
 //<<<<<<<<<<<<<<<<<<<<Python language quiz>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>./
 
