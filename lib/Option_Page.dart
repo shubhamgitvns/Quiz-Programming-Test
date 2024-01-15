@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:quiz_app/devloper_page.dart';
+import 'package:quiz_app/developer_page.dart';
 
 import 'downloader.dart';
 import 'quiz.dart';
@@ -49,7 +49,7 @@ class QuizOne extends StatelessWidget {
                                 context,
                                 MaterialPageRoute(
                                     builder: (context) =>
-                                    const Devloper_page()));
+                                    const Developer_page()));
                           },
                         )
                       ],
