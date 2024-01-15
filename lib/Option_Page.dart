@@ -213,8 +213,8 @@ class QuizOne extends StatelessWidget {
                             ]),
                         child: ElevatedButton(
                           onPressed: () {
-                            Utilities.currentpath=Utilities.pythonpath;
-                            Utilities.quiztitle="Python Quiz";
+                            Utilities.currentpath=Utilities.cpppath;
+                            Utilities.quiztitle="C++ Quiz";
                             Navigator.pushNamed(context, '/second');
                           },
                           style: ElevatedButton.styleFrom(
@@ -253,8 +253,8 @@ class QuizOne extends StatelessWidget {
                           ]),
                       child: ElevatedButton(
                         onPressed: () {
-                          Utilities.currentpath=Utilities.cpath;
-                          Utilities.quiztitle="C Quiz";
+                          Utilities.currentpath=Utilities.javapath;
+                          Utilities.quiztitle="Java Quiz";
                           Navigator.pushNamed(context, '/second');
                         },
                         style: ElevatedButton.styleFrom(

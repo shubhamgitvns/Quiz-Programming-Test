@@ -30,7 +30,7 @@ class _QuizAppState extends State<QuizApp> {
   String opt4 = "";
   String buttonlevel = "Start";
   int i = 0;
-  Color buttoncolorred = Colors.teal;
+  Color buttoncolorred = Colors.orange;
   int _Counter = 10;
   late Timer _timer;
   bool showrnot = false;
@@ -277,7 +277,7 @@ class _QuizAppState extends State<QuizApp> {
                   child: Container(
                     decoration: BoxDecoration(
                         color: Colors.white,
-                        border: Border.all(color: Colors.green, width: 2),
+                       // border: Border.all(color: Colors.white, width: 1),
                         borderRadius: BorderRadius.circular(30),
                         boxShadow: const [
                           BoxShadow(
@@ -296,7 +296,7 @@ class _QuizAppState extends State<QuizApp> {
                     child: SizedBox(
                       width: 150,
                       child: ElevatedButton(
-                        child: Text(buttonlevel),
+                        child: Text("$buttonlevel",style: TextStyle(color: Colors.white,fontWeight: FontWeight.bold),),
                         onPressed: () async {
                           showrnot = true;
                           if (counter == -1) {
