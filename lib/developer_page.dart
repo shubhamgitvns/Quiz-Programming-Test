@@ -13,7 +13,7 @@ class Developer_page extends StatelessWidget {
             const Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Text("Hii, I am shubham maurya ",style: TextStyle(fontWeight: FontWeight.bold,fontSize: 30,color: Colors.white),),
+                Text("Hii, I am Shubham maurya ",style: TextStyle(fontWeight: FontWeight.bold,fontSize: 30,color: Colors.white),),
               ],
             ),
             const Row(

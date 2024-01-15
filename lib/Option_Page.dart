@@ -380,7 +380,7 @@ class QuizOne extends StatelessWidget {
                       child: Text("SQL Quiz",style: TextStyle(color: Colors.white,fontSize: 20,fontWeight: FontWeight.bold),),
                     ),
                     Padding(
-                      padding: EdgeInsets.only(left: 30),
+                      padding: EdgeInsets.only(left: 35),
                       child: Text("Flutter Quiz",style: TextStyle(color: Colors.white,fontSize: 20,fontWeight: FontWeight.bold)),
                     ),
                   ],
