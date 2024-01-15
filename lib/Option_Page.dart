@@ -354,7 +354,7 @@ class QuizOne extends StatelessWidget {
                             borderRadius: BorderRadius.circular(10),
                           ),
                         ),
-                        child: Image.network("https://shubhamgitvns.github.io/pics/myimg.jpg",
+                        child: Image.network("https://shubhamgitvns.github.io/pics/Flutternew.png",
                             height: 100, width: 100),
                       ),
                     ),
@@ -369,7 +369,7 @@ class QuizOne extends StatelessWidget {
                     ),
                     Padding(
                       padding: EdgeInsets.only(left: 30),
-                      child: Text("HTML Quiz",style: TextStyle(color: Colors.white,fontSize: 20,fontWeight: FontWeight.bold)),
+                      child: Text("Flutter Quiz",style: TextStyle(color: Colors.white,fontSize: 20,fontWeight: FontWeight.bold)),
                     ),
                   ],
                 ),
