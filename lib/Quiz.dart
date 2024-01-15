@@ -17,6 +17,7 @@ class _QuizAppState extends State<QuizApp> {
   Question? currentquestion; // create the question variable
   String link = Utilities.currentpath;
   dynamic data;
+  bool next=false;
   int counter = -1, n = -1;
   int _selectedOption = 0;
   int point = 0;
@@ -41,6 +42,7 @@ class _QuizAppState extends State<QuizApp> {
   void _handleOptionChange(int? value) {
     setState(() {
       _selectedOption = value!;
+      next=true;
     });
   }
 
@@ -268,7 +270,7 @@ class _QuizAppState extends State<QuizApp> {
             ),
 
           //<<<<<<<<<<<<<<<< Submit button >>>>>>>>>>>>>>//
-          if (Test_start && Test_over != true)
+          if (Test_start && next && Test_over != true)
             Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
@@ -370,7 +372,9 @@ class _QuizAppState extends State<QuizApp> {
                           opt4 = currentquestion!.optd;
                           correctanswer = currentquestion!.correctanswer;
 
-                          setState(() {});
+                          setState(() {
+                            next=false;
+                          });
                         },
                         style: ElevatedButton.styleFrom(
                           primary: buttoncolorred,
