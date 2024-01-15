@@ -213,7 +213,7 @@ class QuizOne extends StatelessWidget {
                               borderRadius: BorderRadius.circular(10),
                             ),
                           ),
-                          child: Image.network("....................................",
+                          child: Image.network("https://shubhamgitvns.github.io/pics/c++.png",
                               height: 100, width: 100),
                         ),
           
@@ -253,7 +253,7 @@ class QuizOne extends StatelessWidget {
                             borderRadius: BorderRadius.circular(10),
                           ),
                         ),
-                        child: Image.network("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzjiYG5vmjT7tjLa0QXiUsmbu1ThFrwV1Tf-sfKrX9fHgmJQMTbBzxdr3qkM_SS1SjdNk&usqp=CAU",
+                        child: Image.network("https://shubhamgitvns.github.io/pics/java.png",
                             height: 100, width: 100),
                       ),
                     ),
@@ -314,7 +314,7 @@ class QuizOne extends StatelessWidget {
                               borderRadius: BorderRadius.circular(10),
                             ),
                           ),
-                          child: Image.network("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_AXewf1MiE7fr7RL8Ov7Vb18uX9cC0Jadf0mfURwZuGCjRKC91DImy8Vh72FYuSvYY8s&usqp=CAU",
+                          child: Image.network("https://shubhamgitvns.github.io/pics/sql.png",
                               height: 100, width: 100),
                         ),
 
