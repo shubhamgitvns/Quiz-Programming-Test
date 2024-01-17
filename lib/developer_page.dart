@@ -13,7 +13,7 @@ class Developer_page extends StatelessWidget {
             const Row(
               mainAxisAlignment: MainAxisAlignment.center,
               children: [
-                Text("Hii, I am Shubham maurya ",style: TextStyle(fontWeight: FontWeight.bold,fontSize: 30,color: Colors.white),),
+                Text("Hii, I am Shubham maurya",style: TextStyle(fontWeight: FontWeight.bold,fontSize: 30,color: Colors.white),),
               ],
             ),
             const Row(
@@ -23,7 +23,8 @@ class Developer_page extends StatelessWidget {
 
               ],
             ),
-            SizedBox(height: 20,),
+
+            const SizedBox(height: 20,),
             Container(
               decoration: BoxDecoration(
                 border: Border.all(color: Colors.orange),
@@ -42,7 +43,7 @@ class Developer_page extends StatelessWidget {
                     ),
                   ],
               ),
-              child: Image.network("https://scontent.flko7-2.fna.fbcdn.net/v/t39.30808-6/404622937_1755642791623508_157599203839294384_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=3635dc&_nc_ohc=0bQls1lce7YAX9aK_o0&_nc_ht=scontent.flko7-2.fna&oh=00_AfCnMbF-Fe7507Z4_yf5RVG5mljkqXeMc547JCwlGTGP8w&oe=65A6E3C1",height: 300,),
+              child: Image.network("https://shubhamgitvns.github.io/pics/myimg.png",height: 300,),
             )
           ],
         ),

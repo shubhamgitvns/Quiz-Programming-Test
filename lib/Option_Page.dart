@@ -41,7 +41,7 @@ class QuizOne extends StatelessWidget {
                           child: Container(
                             child: const CircleAvatar(
                               radius: 30,
-                              backgroundImage: NetworkImage("https://scontent.flko7-2.fna.fbcdn.net/v/t39.30808-6/404622937_1755642791623508_157599203839294384_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=3635dc&_nc_ohc=0bQls1lce7YAX9aK_o0&_nc_ht=scontent.flko7-2.fna&oh=00_AfCnMbF-Fe7507Z4_yf5RVG5mljkqXeMc547JCwlGTGP8w&oe=65A6E3C1"),
+                              backgroundImage: NetworkImage("https://shubhamgitvns.github.io/pics/myimg.png"),
                             ),
                           ),
                           onTap: (){
