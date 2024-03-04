@@ -90,7 +90,7 @@ class _QuizAppState extends State<QuizApp> {
                 mainAxisAlignment: MainAxisAlignment.center,
                 children: [
                   SizedBox(
-                    width: 400,
+                    width: 350,
                     child: Text(
                       '$question',
                       style:
