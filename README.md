@@ -4,7 +4,6 @@
 Creating an introductory quiz app can be a fun and engaging project. Such an app is typically designed to test users' knowledge on a particular topic or offer a general knowledge quiz. Here's a basic outline of how you can go about developing an introductory quiz app:</h5>
  
 <h1>Components</h1>
-<h2 align="center">The app typically includes the following components:</h2>
 <ul>
  <li>Multyple Quiz: In this app user choose multy quiz and enjoy the app.</li>
  <li>Multy Subject: In this app include multy question related the multiple sunject in quiz.</li>
