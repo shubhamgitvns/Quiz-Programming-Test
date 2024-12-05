@@ -1,4 +1,4 @@
-<h1 align="center">Quiz App</h1>
+<h1 align="center">Quiz Programming App</h1>
  <h1>Overview</h1>
  <h5>
 Creating an introductory quiz app can be a fun and engaging project. Such an app is typically designed to test users' knowledge on a particular topic or offer a general knowledge quiz. Here's a basic outline of how you can go about developing an introductory quiz app:</h5>
@@ -12,6 +12,21 @@ Creating an introductory quiz app can be a fun and engaging project. Such an app
  <li>Icon: Each question get answer than icon has created cross or tick icon according option selected by user.</li>
  <li>Set Timer: If time is over according to during time then question is move forwerd.</li>
 </ul>
+<h1>User Interfase (UI)</h1>
+<ul>
+ <li>Multyple Quiz Page: In this app user choose multy quiz and enjoy the app.</li>
+ <li>Multy Subject Optins: In this app include multy question related the multiple sunject in quiz.</li>
+ <li>Icon: Each question get answer than icon has created cross or tick icon according option selected by user.</li>
+ <li>Set Timer: If time is over according to during time then question is move forwerd.</li>
+ <li>Restart Quiz: If time is over according to during time then user restart the quiz.</li>
+</ul>
+
+<h1>Backend</h1>
+<ul>
+ <li>JSON (JavaScript Object Notation): The all data including questions and his options store in the json file.</li>
+  <li>API Calling: Each one question show in display using API calling.</li>
+</ul>
+
 <h1>About The App</h1>
 <h5>
  <h5>This Quiz Appe which I have built while using dart/flutter programing language.</h5>
@@ -36,6 +51,10 @@ Creating an introductory quiz app can be a fun and engaging project. Such an app
 <h1>Supporting Plateform</h1>
 <li>Android</li>
 <li>Web</li>
+
+<h1>Screen Shorts</h1>
+![1](https://github.com/user-attachments/assets/4e5cf8da-2931-4fc3-9ab6-1501b48151eb)
+
 
  
 
