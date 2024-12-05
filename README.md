@@ -53,7 +53,24 @@ Creating an introductory quiz app can be a fun and engaging project. Such an app
 <li>Web</li>
 
 <h1>Screen Shorts</h1>
-![1](https://github.com/user-attachments/assets/4e5cf8da-2931-4fc3-9ab6-1501b48151eb)
+<h2>Home Page</h2>
+![1](https://github.com/user-attachments/assets/a7ae7cdd-e255-4578-909d-24e4ffeaceab)
+<h2>Developer Page</h2>
+![2 png](https://github.com/user-attachments/assets/f0aab2ac-9615-437b-86db-741946396a25)
+<h2>Quiz Page</h2>
+![3 png](https://github.com/user-attachments/assets/207cd712-9dc8-45a6-a108-cc17f40ddda2)
+<br>
+![4 png](https://github.com/user-attachments/assets/fe3bab8a-6fe0-4310-bf2f-6cb9b94f4591)
+<br>
+![5 png](https://github.com/user-attachments/assets/7e598f08-9edd-491d-88ed-ed4b675a46fd)
+<br>
+![7 png](https://github.com/user-attachments/assets/8f1cba45-cf31-484a-836a-b084e03896e3)
+
+
+
+
+
+
 
 
  
